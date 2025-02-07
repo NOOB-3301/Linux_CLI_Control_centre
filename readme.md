@@ -2,6 +2,9 @@
 
 A terminal-based control center for Linux, built with [React Ink](https://github.com/vadimdemedes/ink). This CLI application provides a user-friendly interface for managing system settings such as system information, Bluetooth, Wi-Fi, disk management, and power options.
 
+![image](https://github.com/user-attachments/assets/62ced438-78d6-44e2-8d09-0cb8d805af5c)
+
+
 ## Features
 - **System Info:** View detailed system information.
 - **Bluetooth Manager:** Manage Bluetooth connections.(Uses blueman-manager)
